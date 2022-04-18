@@ -1,5 +1,5 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Projeto Java Web no Spring Boot
->  Veja como é simples construir uma API REST com banco de dados usando Java e Spring Boot 
+>  Veja como é simples construir uma API REST com banco de dados usando Java e Spring Boot. (https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) 
 
 ## Realização
 [DevSuperior - Escola de programação](https://devsuperior.com.br)
